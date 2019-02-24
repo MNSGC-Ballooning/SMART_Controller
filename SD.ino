@@ -46,10 +46,9 @@ void logData(String data) {
   openDatalog();
   datalog.println(data); 
   closeDatalog();
-
     
- 
 }
+
 
 
 
